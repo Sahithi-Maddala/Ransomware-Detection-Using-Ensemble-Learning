@@ -17,7 +17,7 @@ This project presents an intelligent ransomware detection system that leverages 
 🧪 Streamlit (for UI)
 📂 Mendeley PE file dataset
 
-📈 Performance Metrics
+## 📈 Performance Metrics
 
 ✅ Accuracy: 97.56%
 
@@ -27,13 +27,13 @@ This project presents an intelligent ransomware detection system that leverages 
 
 📊 F1 Score: 97.55%
 
-🧠 Feature Analysis
+## 🧠 Feature Analysis
 
 🔍 Used correlation heatmap to remove redundant features (multicollinearity)
 
 ✂️ Feature selection boosted model efficiency and generalization
 
-🔬 Model Pipeline
+## 🔬 Model Pipeline
 
 Load and preprocess PE header dataset
 
@@ -47,7 +47,7 @@ Save model & scaler using joblib
 
 Deploy with Streamlit UI for predictions
 
-🚀 Streamlit App
+## 🚀 Streamlit App
 
 To run the Streamlit UI locally:
 
