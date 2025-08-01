@@ -57,7 +57,7 @@ streamlit run ransomware_detector.py
 
 Clone the repository and install dependencies:
 
-git clone https://github.com/your-username/ransomware-detection-ensemble.git
+git clone https://github.com/Sahithi-Maddala/ransomware-detection-ensemble.git
 cd ransomware-detection-ensemble
 pip install -r requirements.txt
 streamlit run ransomware_detector.py
