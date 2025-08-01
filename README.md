@@ -86,7 +86,7 @@ Algorithms like XGBoost and Random Forest are sensitive to feature magnitude.
 
 Scaling ensures convergence and balance in feature importance.
 
-##🛠️ Future Improvements
+## 🛠️ Future Improvements
 
 🧬 Include dynamic features (API calls, system logs)
 
@@ -96,13 +96,13 @@ Scaling ensures convergence and balance in feature importance.
 
 🔗 Integrate with antivirus and SIEM systems
 
-##👩‍💻 Author
+## 👩‍💻 Author
 
 M. Jhansi Sahithi Maddala
 Cybersecurity Student – Vignan Institute of Engineering for Women
-GitHub: github.com/yourusername
+GitHub: github.com/Sahithi-Maddala
 
-📄 License
+## 📄 License
 
 This project is licensed under the MIT License.
 
