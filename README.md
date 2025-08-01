@@ -53,7 +53,7 @@ To run the Streamlit UI locally:
 
 streamlit run ransomware_detector.py
 
-📂 Project Setup
+## 📂 Project Setup
 
 Clone the repository and install dependencies:
 
@@ -62,7 +62,7 @@ cd ransomware-detection-ensemble
 pip install -r requirements.txt
 streamlit run ransomware_detector.py
 
-🧪 Sample Prediction
+## 🧪 Sample Prediction
 
 Upload a .csv or input PE header values to predict:
 
@@ -70,7 +70,7 @@ Label: 0 → Benign
 
 Label: 1 → Ransomware
 
-📌 How to Use
+## 📌 How to Use
 
 Input PE header features via Streamlit form
 
@@ -78,7 +78,7 @@ The system will return “Benign” or “Ransomware”
 
 Based on trained ensemble model on static features
 
-🔐 Why Use Feature Scaling?
+## 🔐 Why Use Feature Scaling?
 
 StandardScaler transforms feature values to a standard normal distribution (mean = 0, std = 1). This is essential because:
 
@@ -86,7 +86,7 @@ Algorithms like XGBoost and Random Forest are sensitive to feature magnitude.
 
 Scaling ensures convergence and balance in feature importance.
 
-🛠️ Future Improvements
+##🛠️ Future Improvements
 
 🧬 Include dynamic features (API calls, system logs)
 
@@ -96,12 +96,11 @@ Scaling ensures convergence and balance in feature importance.
 
 🔗 Integrate with antivirus and SIEM systems
 
-👩‍💻 Author
+##👩‍💻 Author
 
 M. Jhansi Sahithi Maddala
 Cybersecurity Student – Vignan Institute of Engineering for Women
 GitHub: github.com/yourusername
-Email: sahithi8975@gmail.com
 
 📄 License
 
