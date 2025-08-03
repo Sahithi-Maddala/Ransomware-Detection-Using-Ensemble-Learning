@@ -97,9 +97,9 @@ Scaling ensures convergence and balance in feature importance.
 🔗 Integrate with antivirus and SIEM systems
 
 ## 👩‍💻 Author
-
+ 
 M. Jhansi Sahithi Maddala
-Cybersecurity Student – Vignan Institute of Engineering for Women
+Cybersecurity Student – Vignan's Institute of Engineering for Women
 GitHub: github.com/Sahithi-Maddala
 
 ## 📄 License
