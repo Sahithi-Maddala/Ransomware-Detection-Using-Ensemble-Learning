@@ -12,10 +12,10 @@ This project presents an intelligent ransomware detection system that leverages 
 
 ## ⚙️ Tech Stack
 
-👩‍💻 Python
-📚 Libraries: Scikit-learn, XGBoost, Pandas, NumPy, Matplotlib, Seaborn
-🧪 Streamlit (for UI)
-📂 Mendeley PE file dataset
+ Python
+ Libraries: Scikit-learn, XGBoost, Pandas, NumPy, Matplotlib, Seaborn
+ Streamlit (for UI)
+ Mendeley PE file dataset
 
 ## 📈 Performance Metrics
 
